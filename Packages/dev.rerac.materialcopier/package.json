@@ -1,0 +1,14 @@
+{
+  "name": "dev.rerac.materialcopier",
+  "displayName": "RC Material Copier",
+  "version": "1.5.0",
+  "unity": "2019.4",
+  "description": "Copy materials in object.",
+  "vrchatVersion": "2022.1.1",
+  "license": "MIT",
+  "author": {
+    "name": "Rera*C",
+    "email": "soumt@rerac.dev",
+    "url": "https://rerac.dev"
+  }
+}
